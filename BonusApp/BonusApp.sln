@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusApp", "BonusApp\BonusApp.csproj", "{26AC163B-F822-4962-86AC-3CC2104CD0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{3487DA64-2970-4FF5-8E60-4EC406CBFD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AC163B-F822-4962-86AC-3CC2104CD0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AC163B-F822-4962-86AC-3CC2104CD0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AC163B-F822-4962-86AC-3CC2104CD0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AC163B-F822-4962-86AC-3CC2104CD0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3487DA64-2970-4FF5-8E60-4EC406CBFD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3487DA64-2970-4FF5-8E60-4EC406CBFD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3487DA64-2970-4FF5-8E60-4EC406CBFD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3487DA64-2970-4FF5-8E60-4EC406CBFD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0B6DE5-1A5B-4A31-92DF-734818E26547}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt Dragonslair", "Projekt Dragonslair\Projekt Dragonslair.csproj", "{319BF2C2-0302-4661-A8A3-391D28EA6DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319BF2C2-0302-4661-A8A3-391D28EA6DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319BF2C2-0302-4661-A8A3-391D28EA6DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319BF2C2-0302-4661-A8A3-391D28EA6DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319BF2C2-0302-4661-A8A3-391D28EA6DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5FA039-0648-47E8-BD68-78A321302C9D}
+	EndGlobalSection
+EndGlobal

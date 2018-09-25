@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ExploreUdenHTTPS.Models.Post>
+@{
+    Layout = "_layout";
+}
+
+<h1>Explorer'ssss blog</h1>
+
+<p>latest posts</p>
+
+<div class="blog-post">
+    @foreach (var post in Model)
+    {
+        @Html.Partial("_Post", post)
+    }
+</div>
